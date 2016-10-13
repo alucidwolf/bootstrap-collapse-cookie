@@ -2,6 +2,21 @@
 i cannot take full credit for this
 
 ##HTML
+```
+<div class="panel-group" role="tablist" aria-multiselectable="true">
+    <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingOne">
+            <h4 class="panel-title">Title</h4>
+        </div>
+
+        <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+            <div class="panel-body">
+                <p>body content</p>
+            </div>
+        </div>
+    </div>
+</div>
+```
 
 ##jQuery Plugin File
 *not mine see credit in file*
