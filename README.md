@@ -1,5 +1,5 @@
 # bootstrap-collapse-cookie
-i cannot take full credit for this
+I cannot take full credit for this
 
 ##HTML
 ```
